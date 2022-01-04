@@ -218,7 +218,7 @@ for more information.
   Please read the following before the workshop begins:
 </p>
 <ol>
-  <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
+  <li><a href="https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
   <li><a href="https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf">The Carpentries 2020 Annual Report</a></li>
 </ol>
 <p>
